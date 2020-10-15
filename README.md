@@ -1,6 +1,10 @@
 # week-3-creating-branches
 creating branches mmed 1054 class
 
+## Details
+
+learvivg
+
 ## MIT Lincense
 
 opyright (c) 2020 vguyev gia livh
